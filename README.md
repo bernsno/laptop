@@ -96,15 +96,14 @@ Testing tools:
 Programming languages and configuration:
 
 * [Bundler] for managing Ruby libraries
-* [Node.js] and [NPM], for running apps and installing JavaScript packages
+* [NVM] for managing versions of Node
 * [Rbenv] for managing versions of Ruby
 * [Ruby Build] for installing Rubies
 * [Ruby] stable for writing general-purpose code
 
 [Bundler]: http://bundler.io/
 [ImageMagick]: http://www.imagemagick.org/
-[Node.js]: http://nodejs.org/
-[NPM]: https://www.npmjs.org/
+[NVM]: https://github.com/creationix/nvm
 [Rbenv]: https://github.com/sstephenson/rbenv
 [Ruby Build]: https://github.com/sstephenson/ruby-build
 [Ruby]: https://www.ruby-lang.org/en/
